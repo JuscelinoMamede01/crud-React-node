@@ -71,6 +71,10 @@ congiuração para CRIAR API
     em controllers crie CreateCustomerController.ts
 
     configure tudo e cire a nova rota
+
+    criando o FRONTEND
+    use o vite
+    
     
 
 
