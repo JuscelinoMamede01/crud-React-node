@@ -1,0 +1,78 @@
+
+congiuração para CRIAR API
+
+    INSTALE O package.json
+    
+    npm init -y
+
+    INSTALE O TYPESCRIPT no amb de desenvolvimento
+
+    npm install typescript --save -dev
+
+    CRIE O ARQUIVO DE CONFIGURAÇÃO DO TYPESCRIPT
+
+    tsc --init
+    **se nao pegar instale o Typescript globalmente na sua maquina
+    npm install -g typescript
+
+    CRIE A PASTA src onde vai ficar os arquivos da API
+    CRIE O ARQUIVO 
+    server.ts e o routes.ts
+
+    INSTALE O FRAMEQORK FASTIFY QUE VAI AJUDAR A CRIAR A API COM NODE.json
+
+    npm install fastify @fastify/cors
+
+    INSTALE A BIBLIOTECA tsx PARA PODER RODAR OS ARQUIVOS TYPESCRIPT EM json para ter um live reload
+
+    npm install tsx
+
+    INSTALE AS TIPAGENS DO NODE.JS
+
+    npm install @types/node --save-dev
+
+    **CRIE UM SCRIPT PARA RODAR A API
+    **para testar a API e configure a rota
+
+    CRIANDO o DB no MONGO
+
+    instale o PRISMA 
+    npm install typescript ts-node @types/node --save-dev
+
+    depois
+    npm install @prisma/client
+
+    agora gere o arquivo de conexao
+    npx prisma init
+
+    instale as extensoes do prisma
+
+    CRIE O SCHEMA
+    COLOQUE SUA URL NO .env
+
+    para o prisma mapear as entidadews do model digite:
+
+    npx prisma generate
+
+    crie uma ´pasta prisma dentro do src para realizar a conexao com o banco e fazer as buscas. 
+    index.ts
+
+    agora teste para ver se o banco conectou
+    npx prisma studio 
+    ele abre no browser
+
+    crie uma rota para cadastrar um cliente
+    crie as pastas controllers e services no src
+
+    em services é a camada onde a gente salva no banco e manipular os dados
+    em controllers a gente chama o servico
+
+    em services crie o CreateCustomerService.ts
+    em controllers crie CreateCustomerController.ts
+
+    configure tudo e cire a nova rota
+    
+
+
+ 
+
