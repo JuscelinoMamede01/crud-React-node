@@ -1,5 +1,5 @@
 
-# ADD notes
+# Crud MERN
 
 Project created for learning MongoDB+Prisma.
 
