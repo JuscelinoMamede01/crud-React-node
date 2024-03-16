@@ -5,7 +5,7 @@ Project created for learning MongoDB+Prisma.
 
 ## 👀 
 
-<img src="https://raw.githubusercontent.com//JuscelinoMamede01/Add-notes/main/public/add-note.png" width="100%">
+<img src="https://raw.githubusercontent.com/JuscelinoMamede01/crud-mern/main/Customers.png" width="100%">
 
 ## 🚀 Technologies
 
