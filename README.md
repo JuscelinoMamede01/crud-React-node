@@ -1,5 +1,5 @@
 
-# Crud MERN
+# Crud REACT/NODE
 
 Project created for learning MongoDB+Prisma.
 
