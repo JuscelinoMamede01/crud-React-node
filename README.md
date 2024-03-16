@@ -1,11 +1,11 @@
-
 # Crud REACT/NODE
 
-Project created for learning MongoDB+Prisma.
+Project created for learning REACT MongoDB+Prisma.
 
 ## 👀 
 
-<img src="https://raw.githubusercontent.com/JuscelinoMamede01/crud-mern/main/Customers.png" width="100%">
+<img src="https://raw.githubusercontent.com//JuscelinoMamede01/crud-mern/main/customers.png" width="100%">
+
 
 ## 🚀 Technologies
 
